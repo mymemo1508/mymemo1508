@@ -9,11 +9,10 @@
 
 ### 🤔 Who Am I 🤔
 
-- 🍉 <u>*Now*</u> : in SSAFY
-- 🍏 <u>*Major*</u> : 중국정경학
-- 🥦 <u>*Hometown*</u> : 광주 
-- 📧 <u>*Mail*</u> : mymemo1508@gmail.com
-- 추가내용
+- 🍉 <u>**Now**</u> : in SSAFY
+- 🍏 <u>**Major**</u> : 중국정경학
+- 🥦 <u>**Hometown**</u> : 광주 
+- 📧 <u>**Mail**</u> : mymemo1508@gmail.com
 
 <br>
 
