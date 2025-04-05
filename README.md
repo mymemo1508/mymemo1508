@@ -1,53 +1,30 @@
-<div align=center>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
-    
-# <span style='color:#000000; background-color: #f5f0ff'>🍀 My Profile 🍀</span>
-</div>
+### 🤓 Hi there!
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Naaaaame%20&desc=Ga%20Yeon%20Song&color=gradient)
+### 🌱 Who Am I
+- 이름 : __송가연__
+- 주전공 : __중국정치경제학__
+- 복수전공 : __경영정보학__
 
+### 🔧 Tech Stack
+  <div>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <br>
 
-### 🤔 Who Am I 🤔
+### 📝 Experience
+- 🎓 국민대학교 <code>2018.03 - 2023.02</code>
+- 📺 대홍기획, 디지털AE팀 인턴 <code>2021.08 - 2021.12</code>
+- 🌍 SSAFY 12TH <code>2024.07 - PRESENT</code>
 
-- 🍉 <u>___Now___</u> : in SSAFY
-- 🍏 <u>___Major___</u> : 중국정경학
-- 🥦 <u>___Hometown___</u> : 광주 
-- 📧 <u>___Mail___</u> : mymemo1508@gmail.com
+### 🥸 What I Like
+- 무한도전
+- 뽑기/가챠/내기
+- 치킨
 
-<br>
-
-<hr/>
-<hr/>
-
-### 🔮 Tech Stack 🔮
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=CSS Wizardry&logoColor=white"/>
-
-<br>
-
-<hr/>
-<hr/>
-
-
-### 🧩 GitHub Stats 🧩
-[![아이디's GitHub stats](https://github-readme-stats.vercel.app/api?username=mymemo1508)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<hr/>
-<hr/>
-
-
-### 👻 What I Like 👻
-- `💤 숙면 취하기`
-- `🎟 전시, 뮤지컬, 연극`
-- `🎱 운동 찍먹`
-- `📺 무한도전` 
-<br> 
-
-  ![이미지](images.jfif)
-
-
-- 내용 추가 추가 추가
-추가춫각추가
+### 💩 More
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rk_yeon)](https://velog.io/@rk_yeon/posts)
