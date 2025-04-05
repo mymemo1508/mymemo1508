@@ -1,6 +1,5 @@
-  
-  <div align=center>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/rk_yeon" width="600" height="300"/></a>
+<div align=center>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
     
 # <span style='color:#000000; background-color: #f5f0ff'>🍀 My Profile 🍀</span>
 </div>
