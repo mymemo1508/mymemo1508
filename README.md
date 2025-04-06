@@ -21,6 +21,9 @@
 - 📺 대홍기획, 디지털AE팀 인턴 <code>2021.08 - 2021.12</code>
 - 🌍 SSAFY 12TH <code>2024.07 - PRESENT</code>
 
+### 🏆 Awards
+- SSAFY 공통 프로젝트 웹기술 트랙 우수상
+
 ### 🥸 What I Like
 - 무한도전
 - 뽑기/가챠/내기
