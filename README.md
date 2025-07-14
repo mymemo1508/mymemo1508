@@ -19,10 +19,12 @@
 ### 📝 Experience
 - 🎓 국민대학교 <code>2018.03 - 2023.02</code>
 - 📺 대홍기획, 디지털AE팀 인턴 <code>2021.08 - 2021.12</code>
-- 🌍 SSAFY 12TH <code>2024.07 - PRESENT</code>
+- 🌍 삼성 청년 SW 아카데미 12기 <code>2024.07 - 2025.06</code>
 
 ### 🏆 Awards
 - SSAFY 공통 프로젝트 웹기술 트랙 우수상
+- SSAFY 특화 프로젝트 빅데이터 분산 트랙 우수상
+- SSAFY 자율 프로젝트 기업 연계 트랙 우수상
 
 ### 🥸 What I Like
 - 무한도전
